@@ -1,4 +1,7 @@
-# FSOCKET
+<img width="425" height="120" alt="Screenshot_2026-07-26_100448-removebg-preview" src="https://github.com/user-attachments/assets/797d215c-b7be-4fc8-aa15-ffdd9e586bdd" />
+
+
+
 
 **This is a simple websocket relay that forward websocket message from one client to another**
 
